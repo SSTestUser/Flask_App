@@ -1,6 +1,6 @@
 # Flask_App
 
-##How to run:
+## How to run:
 
 1. Install Python 
 2. run pip install -r requirements.txt
